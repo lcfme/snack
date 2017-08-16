@@ -1,2 +1,2 @@
 # snack
-https://lcfme.github.io/snack/
+https://lcfme.github.io/snack/snack.html
