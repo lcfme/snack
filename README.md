@@ -1,2 +1,2 @@
 # snack
-https://liuxiansenjs.github.io/snack/snack.html
+https://lcfme.github.io/snack/
